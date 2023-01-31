@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.github.Shadowfoxy32.tilesettest;
 
 import net.minecraftforge.common.config.Configuration;
 import net.minecraftforge.common.config.Property;
